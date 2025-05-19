@@ -49,6 +49,14 @@ Não há fórmulas nesta aba.
 📄 4. APOIO
 Esta aba serve como tabela auxiliar com nomes e códigos de bancos.
 
+
+![Sem título](https://github.com/user-attachments/assets/ffbaf753-efdf-423b-b59f-920919d65ca4)
+
+
+[Projeto imposto de renda.xlsx](https://github.com/user-attachments/files/20297510/Projeto.imposto.de.renda.xlsx)
+
+
+
 Fórmulas: Nenhuma.
 
 Validações: Nenhuma.
